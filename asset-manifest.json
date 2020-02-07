@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/faspdeveloper/dollySprint1.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/faspdeveloper/dollySprint1.git/static/js/main.d87f637c.chunk.js",
+    "main.js.map": "/faspdeveloper/dollySprint1.git/static/js/main.d87f637c.chunk.js.map",
+    "runtime-main.js": "/faspdeveloper/dollySprint1.git/static/js/runtime-main.85c39714.js",
+    "runtime-main.js.map": "/faspdeveloper/dollySprint1.git/static/js/runtime-main.85c39714.js.map",
+    "static/js/2.21388843.chunk.js": "/faspdeveloper/dollySprint1.git/static/js/2.21388843.chunk.js",
+    "static/js/2.21388843.chunk.js.map": "/faspdeveloper/dollySprint1.git/static/js/2.21388843.chunk.js.map",
+    "index.html": "/faspdeveloper/dollySprint1.git/index.html",
+    "precache-manifest.a6100cde6be0138a3ab5c0c70526b68f.js": "/faspdeveloper/dollySprint1.git/precache-manifest.a6100cde6be0138a3ab5c0c70526b68f.js",
+    "service-worker.js": "/faspdeveloper/dollySprint1.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/faspdeveloper/dollySprint1.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.21388843.chunk.js.LICENSE": "/faspdeveloper/dollySprint1.git/static/js/2.21388843.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85c39714.js",
+    "static/js/2.21388843.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d87f637c.chunk.js"
+  ]
+}
