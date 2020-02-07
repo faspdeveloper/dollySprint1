@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dollySprint1/static/css/main.d1b05096.chunk.css",
-    "main.js": "/dollySprint1/static/js/main.d9c074b4.chunk.js",
-    "main.js.map": "/dollySprint1/static/js/main.d9c074b4.chunk.js.map",
+    "main.js": "/dollySprint1/static/js/main.05e547d9.chunk.js",
+    "main.js.map": "/dollySprint1/static/js/main.05e547d9.chunk.js.map",
     "runtime-main.js": "/dollySprint1/static/js/runtime-main.a281028f.js",
     "runtime-main.js.map": "/dollySprint1/static/js/runtime-main.a281028f.js.map",
     "static/js/2.21388843.chunk.js": "/dollySprint1/static/js/2.21388843.chunk.js",
     "static/js/2.21388843.chunk.js.map": "/dollySprint1/static/js/2.21388843.chunk.js.map",
     "index.html": "/dollySprint1/index.html",
-    "precache-manifest.3ee4f2bd6e1fcef98a8d07d8cb386588.js": "/dollySprint1/precache-manifest.3ee4f2bd6e1fcef98a8d07d8cb386588.js",
+    "precache-manifest.ce8160e9769122ea3c60c39fd85b0b67.js": "/dollySprint1/precache-manifest.ce8160e9769122ea3c60c39fd85b0b67.js",
     "service-worker.js": "/dollySprint1/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/dollySprint1/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.21388843.chunk.js.LICENSE": "/dollySprint1/static/js/2.21388843.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a281028f.js",
     "static/js/2.21388843.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.d9c074b4.chunk.js"
+    "static/js/main.05e547d9.chunk.js"
   ]
 }
