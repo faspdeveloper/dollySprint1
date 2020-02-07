@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dollySprint1/precache-manifest.ce8160e9769122ea3c60c39fd85b0b67.js"
+  "/dollySprint1/precache-manifest.fa12c8cfdc082a3c07a0387eac7053ae.js"
 );
 
 self.addEventListener('message', (event) => {
