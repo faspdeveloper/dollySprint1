@@ -1,6 +1,5 @@
 let CACHE_NAME = 'your-app-name';
 let urlsToCache = [
-  'https://faspdeveloper.github.io/dollySprint1/',
   '/',
   '/login',
   '/singUp'
